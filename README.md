@@ -1,1 +1,1 @@
-# data_sience
+Arraylarni sortlash haqida malumot 
