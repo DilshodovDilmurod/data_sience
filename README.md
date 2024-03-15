@@ -1,1 +1,1 @@
-Arraylarni sortlash haqida malumot 
+Data science ga doir malumotlar noldan 
